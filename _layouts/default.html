@@ -20,8 +20,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <button class="collapsible" id="navbar" data-parent="navbar" data-child="navbar-child">Navigation Bar</button>
+        <button class="collapsible" id="navbar" data-parent="navbar" data-child="navbar-child">{{ site.title | default: site.github.repository_name }}</button>
           <div id="navbar-child" class="innertext center" data-parent="navbar">
             <nav>
               <p><a href="{{ site.github.url }}/meditate">Meditation</a></p>
