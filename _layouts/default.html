@@ -21,15 +21,15 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <div class="holder center">
-          <nav>
-            <p><a href="{{ site.github.url }}/meditate">Meditation</a></p>
-            <p><a href="{{ site.github.url }}/voicemeeter">Voice Meeter</a></p>
-          </nav>
-        </div>
-        <hr />
-        <a href="/projects#og">My Projects</a>
-        <hr />
+        <button class="collapsible" id="navbar" data-parent="navbar" data-child="navbar-child">Navigation Bar</button>
+          <div id="navbar-child" class="innertext center" data-parent="navbar">
+            <nav>
+              <p><a href="{{ site.github.url }}/meditate">Meditation</a></p>
+              <p><a href="{{ site.github.url }}/voicemeeter">Voice Meeter</a></p>
+            </nav>
+            <hr />
+            <p><a href="/projects#og">My Projects</a></p>
+          </div>
       </header>
       <section>
         {{content}}
