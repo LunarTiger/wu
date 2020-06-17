@@ -131,7 +131,7 @@
 	<button class="collapsible" id="colliders" data-parent="colliders" data-child="colliders-child">Nav Mesh and Colliders</button>
 		<div id="colliders-child" class="innertext" data-parent="colliders">
 			<p>Often your Imported 3D Objects won't have a collider, or Nav Mesh selected.</p>
-			<h2>Collider<h2>
+			<h2>Collider</h2>
 			<p>If you want an Avatar not be able to walk through a wall, or not fall through a floor, or stand on an object (for example), you would want to add a "collider" to that object. You can either attach a "Mesh Collider" on an object which attaches a collider to every facet (polygon face) of the Object, this can be very costly to performance if your object is highly detailed. Or you can create simple geometry in Unity or your 3D visualization software like Blender to add to your scene, and then add a collider to it.</p> 
 			<p>If your Floor or walls (for example) are just a simple plane's or Quads that are detached from the rest of the the model (Selectable by themselves), you may as well just attach a "Mesh Collider to them", But if they are part of a much more detailed object you should instead create a "Quad" and add a Mesh Collider to it. Then turn off Mesh rendering so the object is not visable, but the collider will still work.</p>
 			<h3>To Create A Quad</h3>
