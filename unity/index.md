@@ -168,7 +168,7 @@
 		<div id="faq-child" class="innertext" data-parent="faq">
 			<p>I will create an FAQ and add it here for other common issues as you make me aware of them.<br />
 			If you want any general advice for World Building don't hesitate to ask for Help oh the Discord channel.<br />
-			If you have any specific questions about this guide, Message me on Discord. My User ID is: <a href="https://discordapp.com/users/339873153750925316" target="_blank" id="discord" data-parent="faq">Andy Wood#9633</p>
+			If you have any specific questions about this guide, Message me on Discord. My User ID is: <a href="https://discordapp.com/users/339873153750925316" target="_blank" id="discord" data-parent="faq">Andy Wood#9633</a></p>
 		</div>
 	<p>This page was made possible by the efforts of Andy Wood. The original document this was based on is avaliable <a href="https://github.com/DjVivid/Altspace-Creation/blob/master/How%20to%20Use%20Unity%20Uploader%20for%20Altspace.txt" target='_blank'>here</a></p>
 </div>
