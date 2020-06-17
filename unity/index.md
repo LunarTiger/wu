@@ -92,7 +92,7 @@
 			<p>Now go into Altspace, In the main menu select "Worlds", "My Worlds" and admire your great work!</p>
 		</div>
 	<hr />
-	<h1>A few Extra Tips to help create Worlds<h1>
+	<h1>A few Extra Tips to help create Worlds</h1>
 	<p>Its very tempting to add everything you find that's amazing on the Asset store or other sources of models and scenes into Altspace BUT!<br />
 	Unity is a pretty optimized game engine, but it still has a lot of limitations. You have to careful not to overload users with huge mesh and textures.<br />
 	This is especially so with mobile users (GearVR, Go & Quest). Altvr have guidelines that are pretty tight if you want a World featured, however you can freely break these guidelines and find a world is still playable for many users. It's wise to check the FPS with an Oculus GO or Quest and use that to guide you. AltVR wants you to keep above 70 FPS to feature for an event, but for other use try to keep above 50, 40 is going to be bad if you have more than a handfull of users.<br />
