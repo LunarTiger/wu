@@ -17,7 +17,7 @@
 			When you have joined that Discord, look for "GENERAL Community" / "world-building" Give your Altspace username and ask to be included in the "allow list"<br />
 			After you are included you will see extra building tools in the "More" button when you log in to you <a href="https://altvr.com/" target='_blank'>altvr.com</a> account using the same login details you use for the game.</p>
 			<p>You might also want to enable "Early Access Program" to enable more features, these can change from time to time.<br />
-			For <a href="https://help.altvr.com/hc/en-us/articles/360015270793-What-is-the-Early-Access-Program-" target='_blank'>more info</a></p>
+			<a href="https://help.altvr.com/hc/en-us/articles/360015270793-What-is-the-Early-Access-Program-" target='_blank'>More info</a></p>
 		</div>
 	<button class="collapsible" id="install" data-parent="install" data-child="install-child">2) Get Unity installed on your PC</button>
 		<div id="install-child" class="innertext" data-parent="install">
@@ -93,10 +93,12 @@
 		</div>
 	<hr />
 	<h1>A few Extra Tips to help create Worlds</h1>
-	<p>Its very tempting to add everything you find that's amazing on the Asset store or other sources of models and scenes into Altspace BUT!<br />
-	Unity is a pretty optimized game engine, but it still has a lot of limitations. You have to careful not to overload users with huge mesh and textures.<br />
-	This is especially so with mobile users (GearVR, Go & Quest). Altvr have guidelines that are pretty tight if you want a World featured, however you can freely break these guidelines and find a world is still playable for many users. It's wise to check the FPS with an Oculus GO or Quest and use that to guide you. AltVR wants you to keep above 70 FPS to feature for an event, but for other use try to keep above 50, 40 is going to be bad if you have more than a handfull of users.<br />
-	If you are PC based or haven't got a mobile HMD, ask someone with a Quest to check for you. In the Game menu select "Display" and "show Oculus FPS".</p>
+	<div class="holder">
+		<p>Its very tempting to add everything you find that's amazing on the Asset store or other sources of models and scenes into Altspace BUT!<br />
+		Unity is a pretty optimized game engine, but it still has a lot of limitations. You have to careful not to overload users with huge mesh and textures.<br />
+		This is especially so with mobile users (GearVR, Go & Quest). Altvr have guidelines that are pretty tight if you want a World featured, however you can freely break these guidelines and find a world is still playable for many users. It's wise to check the FPS with an Oculus GO or Quest and use that to guide you. AltVR wants you to keep above 70 FPS to feature for an event, but for other use try to keep above 50, 40 is going to be bad if you have more than a handfull of users.<br />
+		If you are PC based or haven't got a mobile HMD, ask someone with a Quest to check for you. In the Game menu select "Display" and "show Oculus FPS".</p>
+	</div>
 	<button class="collapsible" id="noscript" data-parent="noscript" data-child="noscript-child">Altspace Does Not Allow Scripting!!!</button>
 		<div id="noscript-child" class="innertext" data-parent="noscript">
 			<p>I know this is super sad, most people into Unity get excited about making dynamic scripts to make GAMES!<br />
@@ -167,8 +169,9 @@
 	<button class="collapsible" id="faq" data-parent="faq" data-child="faq-child">FAQ</button>
 		<div id="faq-child" class="innertext" data-parent="faq">
 			<p>I will create an FAQ and add it here for other common issues as you make me aware of them.<br />
-			If you want any general advice for World Building don't hesitate to ask for Help oh the Discord channel.<br />
+			If you want any general advice for World Building don't hesitate to ask for Help on the Discord channel.<br />
 			If you have any specific questions about this guide, Message me on Discord. My User ID is: <a href="https://discordapp.com/users/339873153750925316" target="_blank" id="discord" data-parent="faq">Andy Wood#9633</a></p>
 		</div>
+	<hr />
 	<p>This page was made possible by the efforts of Andy Wood. The original document this was based on is avaliable <a href="https://github.com/DjVivid/Altspace-Creation/blob/master/How%20to%20Use%20Unity%20Uploader%20for%20Altspace.txt" target='_blank'>here</a></p>
 </div>
