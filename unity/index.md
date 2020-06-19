@@ -1,4 +1,4 @@
-<div class="container">
+<section>
 	<h1>How to become a World Builder in Altspace Using Unity</h1>
 	<p>Updated Jan 13th 2020</p>
 	<p>The official guide is <a href="https://help.altvr.com/hc/en-us/articles/115003528693-How-can-I-create-content-in-AltspaceVR-" target='_blank'>here</a>, but below is a simplified walk through and a few hints and tips.<br />This isn't a guide how to create content for your scene, it's just how to set up Unity for use in Altspace and Upload a World.</p>
@@ -174,4 +174,4 @@
 		</div>
 	<hr />
 	<p>This page was made possible by the efforts of Andy Wood. The original document this was based on is avaliable <a href="https://github.com/DjVivid/Altspace-Creation/blob/master/How%20to%20Use%20Unity%20Uploader%20for%20Altspace.txt" target='_blank'>here</a></p>
-</div>
+</section>

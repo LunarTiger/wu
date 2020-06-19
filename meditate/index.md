@@ -1,5 +1,5 @@
-<h1>Meditation</h1>
-<div class="container">
+<section>
+	<h1>Meditation</h1>
 	<button class="collapsible" id="what" data-parent="what" data-child="what-child">What is meditation</button>
 		<div id="what-child" class="innertext" data-parent="what">
 			<p>In the simplest sense, meditation is intense focus on a certain thing, whether that be your breath, a goal that you want to achieve, or anything else. Meditation has been used extensively throught human history, often as a path to enlightment or self-realization and mostly in religious contexes. In religious and non-religious contexes meditation is often used with the aim of reducing stress, depression, anxiety, and pain while increasing perception, peace, and well-being. Meditation is being researched as possible health benefits and other effects. Meditation SHOULD NOT be used as a substitute for actual, qualified medical advice!</p>
@@ -13,4 +13,4 @@
 			<p>As I've read in a book on meditation once, there's no wrong way to meditate, though there are more effective ways. Meditation can be done sitting in a chair, standing up, laying down (I wouldn't reccomend this as I've fallen asleep every time I try in this position), with your eyes open or closed, and with or without aides. Personally, I meditate while either sitting inside on a soft surface with my legs crossed or outside on the ground. When you start meditating the important thing is that you're comfortable and free from distraction, though at this point I could probably meditate in the middle of a busy train station just fine. When first starting meditating I found it helpful to picture my mind as a sky and the thoughts in my mind as clouds in the sky, and try to be the sky. You'll likely get caught up in a thought, which is perfectly fine, but try and make a concious effort not to and if you do then just bring your attention back to your breath, mantra, or whatever it is you're meditating on. If you find it helpful you can use an oil diffuser, candle, mala, or anything else to set the mood. Personally, I sit cross-legged with closed eyes and my mala in my right hand. As I take a breath in I move to the next bead and when breathing out I pull the bead towards me and repeat until I get to the end, and if I feel like it I'll turn it around and continue mediating. I find this the best way that works for me, though it may not work for everyone. In the past I would set a timer and meditate, but would find myself focusing more on how much time was left instead of actually meditating. Also, if you're wondering what the heck a mala is, I have mine pictured below.</p>
 			<img src="img/my_mala.jpg">
 		</div>
-</div>
+</section>
