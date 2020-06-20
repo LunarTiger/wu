@@ -23,7 +23,7 @@
 		</div>
 	<button class="collapsible" id="install" data-parent="install" data-child="install-child">2) Get Unity installed on your PC</button>
 		<div id="install-child" class="innertext" data-parent="install">
-			<p>Download and install the "<a href="" target='_blank'>Unity HUB</a>"<br />
+			<p>Download and install the "<a href="https://unity3d.com/get-unity/download" target='_blank'>Unity HUB</a>"<br />
 			Run the Hub and click on "Installs" on the left side. Click ADD<br />
 			The version we want might no be on the list showed, so click "download archive" to see the full list<br />
 			Look for the Unity Version that matches Altspace (Current version : Unity 2019.2.12)<br />
