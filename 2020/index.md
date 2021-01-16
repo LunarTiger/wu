@@ -1,4 +1,4 @@
 <section>
 	<h1>My thoughts on 2020</h1>
-	<p>Coming soon.</p>
+	<p>2020 for me was meh, for the world was pretty bad, and for the U.S. a disaster. The general populace, in the U.S. at least, cannot seem to handle the process of science in real time. People lost their minds and assualted others over being asked to wear a piece of cloth for the benefit of everyone. The actions of humans, while entertaining, is concerning. While people being out of work and risking homelesness isn't good (not that people should have to work to meet their basic needs) it has given them time to reflect on themselves and find what motivates them beyone having a job. On the more positive side there have been worldwide protests which have enacted change for the better. Though the events of this year and the actions of humans in the years leading up to it have been conemptable, I believe there's hope for these apes after all.</p>
 </section>
