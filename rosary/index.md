@@ -10,7 +10,7 @@
     </div>
   <button class="collapsible" id="tenets" data-parent="tenets" data-child="tenets-child">The 7 Tenets</button>
     <div id="tenets-child" class="innertext" data-parent="tenets">
-      <ol>
+      <p><ol>
         <li>One should strive to act with compassion and empathy toward all creatures in accordance with reason.</li>
         <li>The struggle for justice is an ongoing and necessary pursuit that should prevail over laws and institutions.</li>
         <li>One’s body is inviolable, subject to one’s own will alone.</li>
@@ -18,15 +18,15 @@
         <li>Beliefs should conform to one's best scientific understanding of the world. One should take care never to distort scientific facts to fit one's beliefs.</li>
         <li>People are fallible. If one makes a mistake, one should do one's best to rectify it and resolve any harm that might have been caused.</li>
         <li>Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.</li>
-      </ol>
+      </ol></p>
     </div>
   <button class="collapsible" id="order" data-parent="order" data-child="order-child">Prayer Order</button>
     <div id="order-child" class="innertext" data-parent="order">
-      <ul>
+      <p><ul>
         <li>LI = The Luciferian Impulse</li>
         <li>HM = Hail Myself</li>
         <li>T1 - T7 = Tenet 1 - Tenet 7</li>
-      </ul>
+      </ul></p>
       <p>LI, T1, LI, HM, HM, HM, LI, T2, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T3, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T4, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T5, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T6, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T7, LI<br/></p>
     </div>
 </section>
