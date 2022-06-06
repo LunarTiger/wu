@@ -27,6 +27,6 @@
         <li>HM = Hail Myself</li>
         <li>T1 - T7 = Tenet 1 - Tenet 7</li>
       </ul></p>
-      <p>LI, T1, LI, HM, HM, HM, LI, T2, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T3, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T4, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T5, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T6, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM, LI, T7, LI<br/></p>
+      <p>LI, T1, LI, HM, HM, HM, LI, T2, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T3, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T4, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T5, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T6, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T7, LI<br/></p>
     </div>
 </section>
