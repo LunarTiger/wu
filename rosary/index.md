@@ -1,5 +1,9 @@
 <section>
   <h1>My Satanic Rosary</h1>
+  <div class="holder">
+    ≤p>This page has moved to <a href="/tome/rosary">my tome</a>.</p>
+  </div>
+<!----
   <button class="collapsible" id="impulse" data-parent="impulse" data-child="impulse-child">The Luciferian Impulse</button>
     <div id="impulse-child" class="innertext" data-parent="impulse">
       <p>I embrace the Luciferian impulse<br/>To eat of the tree of knoledge,<br/>To stand unfettered by doctrines of fear,<br/>To practice justice instead of panic,<br/>To reason with openness and evidence,<br/>To resist threats to personal sovereignty, and <br/>To dissipate my delusions.<br/>That which will not bend must brake, and<br/>That which can be destroyed by truth should never be spared its demise.<br/>Hail Satan</p>
@@ -29,6 +33,7 @@
       </ul></p>
       <p>LI, T1, LI, HM, HM, HM, LI, T2, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T3, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T4, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T5, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T6, LI,<br/>HM, HM, HM, HM, HM, HM, HM, HM, HM, HM,<br/>LI, T7, LI<br/></p>
     </div>
+<!---->
   <div class="holder">
     <p>This was heavily inspired by <a href="https://stephenbradfordlong.com/2021/08/18/guest-post-praying-a-satanic-rosary/" title="Guest Post: Praying a Satanic Rosary" target="_blank">this post</a> on Steven Bradford Long's blog.</p>
   </div>
