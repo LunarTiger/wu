@@ -1,7 +1,7 @@
 <section>
   <h1>My Satanic Rosary</h1>
   <div class="holder">
-    ≤p>This page has moved to <a href="/tome/rosary">my tome</a>.</p>
+    <p>This page has moved to <a href="/tome/rosary">my tome</a>.</p>
   </div>
 <!----
   <button class="collapsible" id="impulse" data-parent="impulse" data-child="impulse-child">The Luciferian Impulse</button>
