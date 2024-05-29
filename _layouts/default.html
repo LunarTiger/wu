@@ -25,7 +25,7 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <hr />
-        <nav>
+        <nav id="navbar">
           <ul>
             <li><a href="{{ site.github.url }}/meditate">Meditation</a></li>
             <li><a href="{{ site.github.url }}/quotes">Quotes</a></li>
@@ -40,6 +40,5 @@
       </header>
       {{content}}
     </div>
-    <script src="/assets/js/collapsible.js"></script>
   </body>
 </html>
