@@ -24,22 +24,22 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <div id="navbar" class="holder center">
-            <nav>
-              <ul>
-                <li><a href="{{ site.github.url }}/meditate">Meditation</a></li>
-                <li><a href="{{ site.github.url }}/quotes">Memorable Quotes</a></li>
-                <li><a href="{{ site.github.url }}/voicemeeter">Voice Meeter</a></li>
-                <li><a href="{{ site.github.url }}/unity">World Building in Altspace</a></li>
-              </ul>
-            </nav>
-            <hr />
-            <p><a href="/projects#wu">My Projects</a></p>
-          </div>
+        <hr />
+        <nav>
+          <ul>
+            <li><a href="{{ site.github.url }}/meditate">Meditation</a></li>
+            <li><a href="{{ site.github.url }}/quotes">Quotes</a></li>
+            <li><a href="{{ site.github.url }}/voicemeeter">Voice Meeter</a></li>
+            <li><a href="{{ site.github.url }}/unity">AltVR World Building</a></li>
+          </ul>
+        </nav>
+        <hr />
+        <div class="holder center">
+          <p><a href="/projects#wu">My Projects</a></p>
+        </div>
       </header>
       {{content}}
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <script src="/assets/js/collapsible.js"></script>
   </body>
 </html>
