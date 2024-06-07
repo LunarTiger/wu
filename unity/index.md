@@ -179,3 +179,4 @@
 		<p>This page was made possible by the efforts of Andy Wood. The original document this was based on is avaliable <a href="https://github.com/DjVivid/Altspace-Creation/blob/master/How%20to%20Use%20Unity%20Uploader%20for%20Altspace.txt" target='_blank'>here</a></p>
 	</div>
 </section>
+<script src="/assets/js/collapsible.js"></script>
