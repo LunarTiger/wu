@@ -1,3 +1,4 @@
+<script src="/assets/js/collapsible.js"></script>
 <section>
 	<h1>Meditation</h1>
 	<button class="collapsible" id="what" data-parent="what" data-child="what-child">What is meditation</button>
